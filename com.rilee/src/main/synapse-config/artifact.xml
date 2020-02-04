@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artifacts><artifact name="SampleInboundEndpoint" type="synapse/inbound-endpoint" serverRole="EnterpriseServiceBus" groupId="helloworldapp" version="1.0-SNAPSHOT"><file>inbound-endpoints/SampleInboundEndpoint.xml</file></artifact></artifacts>
